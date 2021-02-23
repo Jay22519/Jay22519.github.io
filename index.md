@@ -14,7 +14,8 @@
 ### Weekly Update  
 
 #### Update for Week [15<sup>th</sup> Feb - 21<sup>th</sup> Feb]
-Algorithms and Model to use for Language Processing had been added . Link is <a href = 'https://jay22519.github.io/Language_processing/'>Language Processing Module</a> 
+Algorithms and Model to use for Language Processing has been added . Link is <a href = 'https://jay22519.github.io/Language_processing/'>Language Processing Module</a> <br>
+OCR and Autocorrect module used for Image processing has been added. Link is <a href = 'https://jay22519.github.io/Image_processing/'>Image Processing Module</a> 
 
 
 ## Problem Statement 
