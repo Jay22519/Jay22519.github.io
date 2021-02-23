@@ -11,8 +11,8 @@
 
 ### Our project of Automatic Answer checking is divided into 2 modules ->
 
- 1) Converting given input image file into text file
- 2) Using the text file generated to find how correcrt the given answer is
+ 1. Converting given input image file into text file
+ 2. Using the text file generated to find how correcrt the given answer is
 
 <b> This page deals with the first module . The crux of it is to use optical character recognition (OCR) to extract text from handwritten answer sheet. </b>
 
@@ -37,6 +37,12 @@ sitten → sittin (substitution of “i” for “e”)
 sittin → sitting (insertion of “g” at the end).
 An “edit” is defined by either an insertion of a character, a deletion of a character, or a replacement of a character.
 
+### Further problems to solve
+
+1. Adding support for pdfs
+2. Improving accuracy for keyword autocorrection
+3. Differentiate among various questions
+
 ### References
-1.[Github Page](https://github.com/fsondej/autocorrect)
-2.[Understanding the Levenshtein Distance Equation](https://medium.com/@ethannam/understanding-the-levenshtein-distance-equation-for-beginners-c4285a5604f0)
+1. [Github Page](https://github.com/fsondej/autocorrect) <br>
+2. [Understanding the Levenshtein Distance Equation](https://medium.com/@ethannam/understanding-the-levenshtein-distance-equation-for-beginners-c4285a5604f0)
