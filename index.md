@@ -26,8 +26,8 @@ Creating an automatic answer checker web application for students and teachers, 
 -  Language processing module will then check the similarity between student's answer and ideal answer submitted and accordinly allocate the marks to student
   
 ### Tech Stack  
-1) Web application is deployed using Flask 
-2) Image processing is done using Microsoft Azure Read API
-3) Language processing is done Universal Sentence Encoder and Word Movers distance 
-4) Frontend application designed using bootstrap
+1) Web application is deployed using Flask  <br>
+2) Image processing is done using Microsoft Azure Read API <br>
+3) Language processing is done Universal Sentence Encoder and Word Movers distance <br>
+4) Frontend application designed using bootstrap <br>
 
