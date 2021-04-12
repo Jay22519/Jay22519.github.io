@@ -37,11 +37,6 @@ For example, the Levenshtein distance between “kitten” and “sitting” is 
 
 An “edit” is defined by either an insertion of a character, a deletion of a character, or a replacement of a character.
 
-### Further problems to solve
-
-1. Adding support for pdfs
-2. Improving accuracy for keyword autocorrection
-3. Differentiate among various questions
 
 ### References
 1. [Github Page for the autocorrect module](https://github.com/fsondej/autocorrect)  
