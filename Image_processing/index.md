@@ -4,10 +4,10 @@
 
 | S. no | Name              | Enrollment no |
 | ----- | ----------------- | ------------- |
-| 1     | Rishikesh Rachchh | [BT18CSE091]  |
-| 2     | Harshal Sable     | [BT18CSE075]  |
-| 3     | Rishabh Agrawal   | [BT18CSE054]  |
-| 4     | Ashish Lakra      | [BT18CSE038]  |
+| 1     |Ashish Lakra      | [BT18CSE038] |
+| 2     | Rishabh Agrawal    | [BT18CSE054]  |
+| 3     | Harshal Sable     | [BT18CSE075]  |
+| 4     | Rishikesh Rachchh   | [BT18CSE091]  |
 
 ### Our project of Automatic Answer checking is divided into 2 modules ->
 
