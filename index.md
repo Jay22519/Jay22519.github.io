@@ -12,6 +12,8 @@
 | 6 | Rishikesh Rachchh   | [BT18CSE091]  |
 | 7 |  Prince Sharma     | [BT18CSE147]  |
 
+##### Link of GitHub Repo - <a href = 'https://github.com/Jay22519/Automatic-Answer-checker-'> GitHub Repo </a>
+
 ##### Link for Language Processing page is  <a href = 'https://jay22519.github.io/Language_processing/'>Language Processing Module</a> 
 
 ##### Link for Image Processing page is <a href = 'https://jay22519.github.io/Image_processing/'>Image Processing Module</a> 
